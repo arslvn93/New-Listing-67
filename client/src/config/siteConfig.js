@@ -1,7 +1,7 @@
 /**
  * Site Configuration
  * This file contains all configurable content for the website
- * Last updated: 2025-10-20T20:02:03.260Z
+ * Last updated: 2025-10-20T20:04:25.194Z
  */
 
 // contactInfo configuration
@@ -637,7 +637,7 @@ export const heroVideo = {
   playsInline: true
 };
 
-// homeShowcaseSections configuration  
+// homeShowcaseSections configuration
 export const homeShowcaseSections = [
   {
     id: "section1",
@@ -669,13 +669,13 @@ export const homeShowcaseSections = [
 export const neighborhood = {
   name: "Sainte-Anne-de-Bellevue",
   city: "Sainte-Anne-de-Bellevue",
-  description: "Sainte-Anne-de-Bellevue's premier destination for culture, dining, and urban living.",
+  description: "Sainte-Anne-de-Bellevue is a picturesque lakeside village on Montreal’s West Island, prized for its scenic canal boardwalks and marina views. The area combines family-friendly outdoor attractions like the Ecomuseum Zoo and Morgan Arboretum with a compact, walkable main street of cafés, local shops and lakeside dining.",
   highlights: [
-    "Steps to theaters, dining, and entertainment venues",
-    "Direct access to PATH underground walkway", 
-    "TTC subway and streetcar connections",
-    "Walk to financial district and shopping",
-    "Vibrant urban lifestyle with excellent walk score"
+    "Scenic Sainte-Anne-de-Bellevue Canal with boardwalk and marina views",
+    "Ecomuseum Zoo – year-round outdoor wildlife park focused on Quebec species",
+    "Morgan Arboretum – 605-acre conservation area with extensive trails",
+    "Vibrant village atmosphere with farmers’ markets, charming shops and lakeside dining",
+    "Historical 19th-century architecture and local cultural heritage"
   ]
 };
 
@@ -683,45 +683,59 @@ export const neighborhood = {
 export const neighborhoodAmenities = [
   {
     id: 1,
-    name: "Local Grocery Store",
-    distance: "0.2 miles",
+    name: "icyvibes",
+    distance: "",
     category: "shopping",
     iconName: "ShoppingBag"
   },
   {
     id: 2,
-    name: "Nearby Park",
-    distance: "0.1 miles", 
+    name: "Parc Dorset (Parc Wilkinson)",
+    distance: "",
     category: "recreation",
     iconName: "Leaf"
   },
   {
     id: 3,
-    name: "Public School",
-    distance: "0.6 miles",
-    category: "education", 
+    name: "Ecomuseum Zoo",
+    distance: "",
+    category: "education",
     iconName: "School"
   },
   {
     id: 4,
-    name: "Fine Dining",
-    distance: "0.2 miles",
+    name: "Restaurant Le Khmer",
+    distance: "",
     category: "dining",
-    iconName: "Wine"
+    iconName: "Coffee"
   },
   {
     id: 5,
-    name: "Casual Dining",
-    distance: "0.4 miles",
+    name: "Morgan 44",
+    distance: "",
     category: "dining",
     iconName: "Utensils"
   },
   {
     id: 6,
-    name: "Transit Station",
-    distance: "0.4 miles",
+    name: "Gare Île-Perrot Quai 4",
+    distance: "",
     category: "transportation",
-    iconName: "Train"
+    iconName: "Car"
+  },
+  {
+    id: 7,
+    name: "Lookout Point",
+    distance: "",
+    category: "recreation",
+    iconName: "Users"
+  },
+  {
+    id: 8,
+    name: "Ceilidh Bar Restaurant",
+    distance: "",
+    category: "business",
+    iconName: "Wifi"
   }
 ];
 
@@ -730,86 +744,26 @@ export const neighborhoodStats = [
   {
     id: 1,
     title: "Walk Score",
-    value: "95/100",
-    caption: "Walker's Paradise",
+    value: "20/100",
+    caption: "Car-Dependent",
     iconName: "BadgeCheck",
     color: "bg-green-500"
   },
   {
     id: 2,
-    title: "Transit Score", 
-    value: "94/100",
-    caption: "Excellent Transit",
+    title: "Transit Score",
+    value: "65/100",
+    caption: "Good Transit",
     iconName: "Compass",
     color: "bg-blue-500"
   },
   {
     id: 3,
-    title: "School Rating",
-    value: "8/10", 
-    caption: "Great Schools",
-    iconName: "School",
-    color: "bg-indigo-500"
-  },
-  {
-    id: 4,
-    title: "Commute Time",
-    value: "8 min",
-    caption: "To Financial District",
-    iconName: "Clock", 
-    color: "bg-amber-500"
-  }
-];
-
-// openHouseBenefits configuration
-export const openHouseBenefits = [
-  {
-    id: 1,
-    title: "Detailed Floor Plans",
-    description: "Complete architectural layouts showing the 4 bedroom, 3.5 bathroom configuration with precise measurements.",
-    iconName: "FileText"
-  },
-  {
-    id: 2,
-    title: "Recent Neighborhood Sales",
-    description: "Comparative market analysis of recent Condo Townhouse sales in Sainte-Anne-de-Bellevue.",
-    iconName: "BarChart2"
-  },
-  {
-    id: 3,
-    title: "School District Information", 
-    description: "School Board Jurisdictions
-
-For English-language public schools, the relevant board is the Lester B. Pearson School Board (LBPSB). 
-Lester B. Pearson School Board
-
-For French-language public schools, the relevant board is the Centre de services scolaire Marguerite‑Bourgeoys (formerly the Commission scolaire Marguerite-Bourgeoys).
-
-Typical Schools in the Area
-
-One English public high school: Macdonald High School, located at 17 Maple St., Sainte-Anne-de-Bellevue. 
-Macdonald High School
-
-One French public elementary school in the municipality: École primaire du Bout‑de‑l’Île (under the French board) is listed among schools in this area.",
-    iconName: "GraduationCap"
-  },
-  {
-    id: 4,
-    title: "Property Inspection Report",
-    description: "Professional assessment highlighting recent upgrades and maintenance history.",
-    iconName: "CheckSquare"
-  },
-  {
-    id: 5,
-    title: "Financing Options Guide",
-    description: "Current mortgage rates and financing programs available for this price range.",
-    iconName: "DollarSign"
-  },
-  {
-    id: 6,
-    title: "Neighborhood Amenities Map",
-    description: "Interactive guide to nearby amenities and transportation options.",
-    iconName: "Map"
+    title: "Bike Score",
+    value: "70/100",
+    caption: "Good for Bikers",
+    iconName: "Compass",
+    color: "bg-blue-500"
   }
 ];
 
@@ -823,60 +777,13 @@ export const openHouseDetails = {
   ctaText: "RSVP for Open House",
   virtualTourAvailable: false,
   virtualTourUrl: "",
-  allOpenHouses: [{"date":"Saturday, October 25, 2025","time":"2:00 PM - 4:00 PM"}]
+  allOpenHouses: [
+    {
+      date: "Saturday, October 25, 2025",
+      time: "2:00 PM - 4:00 PM"
+    }
+  ]
 };
-
-// packageItems configuration
-export const packageItems = [
-  {
-    id: 1,
-    title: "Detailed Floor Plans",
-    description: "Complete architectural layouts showing the 4 bedroom, 3.5 bathroom configuration with precise measurements.",
-    iconName: "FileText"
-  },
-  {
-    id: 2,
-    title: "Recent Neighborhood Sales",
-    description: "Comparative market analysis of recent Condo Townhouse sales in Sainte-Anne-de-Bellevue.",
-    iconName: "BarChart2"
-  },
-  {
-    id: 3,
-    title: "School District Information", 
-    description: "School Board Jurisdictions
-
-For English-language public schools, the relevant board is the Lester B. Pearson School Board (LBPSB). 
-Lester B. Pearson School Board
-
-For French-language public schools, the relevant board is the Centre de services scolaire Marguerite‑Bourgeoys (formerly the Commission scolaire Marguerite-Bourgeoys).
-
-Typical Schools in the Area
-
-One English public high school: Macdonald High School, located at 17 Maple St., Sainte-Anne-de-Bellevue. 
-Macdonald High School
-
-One French public elementary school in the municipality: École primaire du Bout‑de‑l’Île (under the French board) is listed among schools in this area.",
-    iconName: "GraduationCap"
-  },
-  {
-    id: 4,
-    title: "Property Inspection Report",
-    description: "Professional assessment highlighting recent upgrades and maintenance history.",
-    iconName: "CheckSquare"
-  },
-  {
-    id: 5,
-    title: "Financing Options Guide",
-    description: "Current mortgage rates and financing programs available for this price range.",
-    iconName: "DollarSign"
-  },
-  {
-    id: 6,
-    title: "Neighborhood Amenities Map",
-    description: "Interactive guide to nearby amenities and transportation options.",
-    iconName: "Map"
-  }
-];
 
 // property configuration
 export const property = {
@@ -896,11 +803,9 @@ export const property = {
   yearBuilt: 2010,
   type: "Condo Townhouse",
   status: "For Sale",
-  description: "The open concept layout on the main floor is really functional for family life and there is separation with the bedrooms being on multiple floors for different family configurations. 
-
-The mezzanine-level primary suite with two walk-in closets, ensuite bathroom, and private balcony a rare feature that makes the home stand out.",
+  description: "The open concept layout on the main floor is really functional for family life and there is separation with the bedrooms being on multiple floors for different family configurations. \n\nThe mezzanine-level primary suite with two walk-in closets, ensuite bathroom, and private balcony a rare feature that makes the home stand out.",
   shortDescription: "4 BEDS + 4 BATHS in Sainte-Anne-de-Bellevue",
-longDescription: "Multi-level layout with mezzanine, offering flexible living spaces.  Bright open-concept main floor with large windows and double sliding doors for natural light.  Private outdoor areas including a large terrace and balcony.  Attached double garage with direct interior access.  Proximity to future REM station and major highways for easy commuting.  Brand new park was completed nearby, steps away.  Walking distance to ECO museum and lots of walking paths. ",
+  longDescription: "Multi-level layout with mezzanine, offering flexible living spaces. Bright open-concept main floor with large windows and double sliding doors for natural light. Private outdoor areas including a large terrace and balcony. Attached double garage with direct interior access. Proximity to future REM station and major highways for easy commuting. Brand new park was completed nearby, steps away. Walking distance to ECO museum and lots of walking paths.",
   mainFeatures: [],
   propertyType: "Condo Townhouse",
   heroImage: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988149801-DJI_20250625151831_0268_D.jpg",
@@ -920,7 +825,7 @@ export const siteBranding = {
   favicon: "/favicon.ico",
   colors: {
     primary: "#D9A566",
-    primaryDark: "#8B6839", 
+    primaryDark: "#8B6839",
     primaryLight: "#E6C38C",
     dark: "#111111",
     light: "#FFFFFF"
@@ -948,7 +853,7 @@ export const testimonials = [
   {
     id: 1,
     name: "David Chen",
-    role: "Recent Homebuyer", 
+    role: "Recent Homebuyer",
     content: "Rebecca Matheson provided exceptional service and found us exactly what we were looking for in Sainte-Anne-de-Bellevue.",
     avatar: "https://randomuser.me/api/portraits/men/22.jpg"
   },
@@ -961,9 +866,10 @@ export const testimonials = [
   },
   {
     id: 3,
-    name: "Mark Williams", 
+    name: "Mark Williams",
     role: "Neighborhood Resident",
     content: "Living in this area, you appreciate the convenience and lifestyle. Rebecca Matheson knows the market incredibly well.",
     avatar: "https://randomuser.me/api/portraits/men/35.jpg"
   }
 ];
+
