@@ -786,11 +786,11 @@ export const neighborhoodStats = [
 
 // openHouseDetails configuration
 export const openHouseDetails = {
-    nextDate: "Saturday, October 25, 2025",
-    time: "2:00 PM - 4:00 PM",
-    host: "Rebecca Matheson",
+    nextDate: "",
+    time: "",
+    host: "",
     phone: "5199380155",
-    email: "rebecca@salesgenius.co",
+    email: "",
     ctaText: "RSVP for Open House",
     virtualTourAvailable: false,
     virtualTourUrl: "",
