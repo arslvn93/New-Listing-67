@@ -7,19 +7,19 @@
 // contactInfo configuration
 export const contactInfo = {
   agent: {
-    name: "Rebecca Matheson",
-    photo: "https://via.placeholder.com/150x150?text=Agent",
+    name: "Lisa Hall",
+    photo: "https://cdn.realtor.ca/individual/TS638762781600000000/highres/1250988.jpg",
     phone: "5199380155",
-    email: "rebecca@salesgenius.co",
+    email: "lisahall@mimmobilier.com",
     company: "M Immobilier",
-    license: "RECO #84397152",
+    license: "REALTOR®",
     repo: "New-Listing-67"
   },
   social: {
     instagram: "https://instagram.com/lisahallmontreal",
     facebook: "https://www.facebook.com/lisahallcourtier/",
     twitter: "https://twitter.com/executivehomesrealtyinc",
-    linkedin: "https://linkedin.com/company/executivehomesrealtyinc"
+    linkedin: ""
   }
 };
 
