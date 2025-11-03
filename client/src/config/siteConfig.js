@@ -45,302 +45,252 @@ export const galleryImages = [
     {
       id: 1,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988149801-DJI_20250625151831_0268_D.jpg",
-      alt: "Property image 1",
-      category: "interior"
+      alt: "Property image 1"
     },
     {
       id: 2,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988152447-DJI_20250625151841_0271_D.jpg",
-      alt: "Property image 2",
-      category: "kitchen"
+      alt: "Property image 2"
     },
     {
       id: 3,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988154132-DJI_20250625151904_0276_D.jpg",
-      alt: "Property image 3",
-      category: "bedroom"
+      alt: "Property image 3"
     },
     {
       id: 4,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988155363-DJI_20250625151918_0279_D.jpg",
-      alt: "Property image 4",
-      category: "bathroom"
+      alt: "Property image 4"
     },
     {
       id: 5,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988156329-DJI_20250625151945_0282_D.jpg",
-      alt: "Property image 5",
-      category: "exterior"
+      alt: "Property image 5"
     },
     {
       id: 6,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988157153-DJI_20250625152732_0298_D.jpg",
-      alt: "Property image 6",
-      category: "interior"
+      alt: "Property image 6"
     },
     {
       id: 7,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988157900-DJI_20250625152738_0301_D.jpg",
-      alt: "Property image 7",
-      category: "kitchen"
+      alt: "Property image 7"
     },
     {
       id: 8,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988158583-DJI_20250625152750_0307_D.jpg",
-      alt: "Property image 8",
-      category: "bedroom"
+      alt: "Property image 8"
     },
     {
       id: 9,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988159337-DSC09090.jpg",
-      alt: "Property image 9",
-      category: "bathroom"
+      alt: "Property image 9"
     },
     {
       id: 10,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988159826-DSC09091.jpg",
-      alt: "Property image 10",
-      category: "exterior"
+      alt: "Property image 10"
     },
     {
       id: 11,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988160308-DSC09109.jpg",
-      alt: "Property image 11",
-      category: "interior"
+      alt: "Property image 11"
     },
     {
       id: 12,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988160741-DSC09115.jpg",
-      alt: "Property image 12",
-      category: "kitchen"
+      alt: "Property image 12"
     },
     {
       id: 13,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988161335-DSC09128.jpg",
-      alt: "Property image 13",
-      category: "bedroom"
+      alt: "Property image 13"
     },
     {
       id: 14,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988161848-DSC09146.jpg",
-      alt: "Property image 14",
-      category: "bathroom"
+      alt: "Property image 14"
     },
     {
       id: 15,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988162257-DSC09149.jpg",
-      alt: "Property image 15",
-      category: "exterior"
+      alt: "Property image 15"
     },
     {
       id: 16,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988162667-DSC09160.jpg",
-      alt: "Property image 16",
-      category: "interior"
+      alt: "Property image 16"
     },
     {
       id: 17,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988163048-DSC09171.jpg",
-      alt: "Property image 17",
-      category: "kitchen"
+      alt: "Property image 17"
     },
     {
       id: 18,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988163475-DSC09174.jpg",
-      alt: "Property image 18",
-      category: "bedroom"
+      alt: "Property image 18"
     },
     {
       id: 19,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988163907-DSC09194.jpg",
-      alt: "Property image 19",
-      category: "bathroom"
+      alt: "Property image 19"
     },
     {
       id: 20,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988164304-DSC09197.jpg",
-      alt: "Property image 20",
-      category: "exterior"
+      alt: "Property image 20"
     },
     {
       id: 21,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988164784-DSC09211.jpg",
-      alt: "Property image 21",
-      category: "interior"
+      alt: "Property image 21"
     },
     {
       id: 22,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988165262-DSC09221.jpg",
-      alt: "Property image 22",
-      category: "kitchen"
+      alt: "Property image 22"
     },
     {
       id: 23,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988165761-DSC09237.jpg",
-      alt: "Property image 23",
-      category: "bedroom"
+      alt: "Property image 23"
     },
     {
       id: 24,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988166203-DSC09240.jpg",
-      alt: "Property image 24",
-      category: "bathroom"
+      alt: "Property image 24"
     },
     {
       id: 25,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988166648-DSC09252.jpg",
-      alt: "Property image 25",
-      category: "exterior"
+      alt: "Property image 25"
     },
     {
       id: 26,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988167109-DSC09255.jpg",
-      alt: "Property image 26",
-      category: "interior"
+      alt: "Property image 26"
     },
     {
       id: 27,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988167526-DSC09271.jpg",
-      alt: "Property image 27",
-      category: "kitchen"
+      alt: "Property image 27"
     },
     {
       id: 28,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988167928-DSC09274.jpg",
-      alt: "Property image 28",
-      category: "bedroom"
+      alt: "Property image 28"
     },
     {
       id: 29,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988168407-DSC09284.jpg",
-      alt: "Property image 29",
-      category: "bathroom"
+      alt: "Property image 29"
     },
     {
       id: 30,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988168905-DSC09287.jpg",
-      alt: "Property image 30",
-      category: "exterior"
+      alt: "Property image 30"
     },
     {
       id: 31,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988169335-DSC09293.jpg",
-      alt: "Property image 31",
-      category: "interior"
+      alt: "Property image 31"
     },
     {
       id: 32,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988169864-DSC09303.jpg",
-      alt: "Property image 32",
-      category: "kitchen"
+      alt: "Property image 32"
     },
     {
       id: 33,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988170320-DSC09306.jpg",
-      alt: "Property image 33",
-      category: "bedroom"
+      alt: "Property image 33"
     },
     {
       id: 34,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988170857-DSC09314.jpg",
-      alt: "Property image 34",
-      category: "bathroom"
+      alt: "Property image 34"
     },
     {
       id: 35,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988171256-DSC09328.jpg",
-      alt: "Property image 35",
-      category: "exterior"
+      alt: "Property image 35"
     },
     {
       id: 36,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988171680-DSC09336.jpg",
-      alt: "Property image 36",
-      category: "interior"
+      alt: "Property image 36"
     },
     {
       id: 37,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988172107-DSC09350.jpg",
-      alt: "Property image 37",
-      category: "kitchen"
+      alt: "Property image 37"
     },
     {
       id: 38,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988172515-DSC09356.jpg",
-      alt: "Property image 38",
-      category: "bedroom"
+      alt: "Property image 38"
     },
     {
       id: 39,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988173037-DSC09373.jpg",
-      alt: "Property image 39",
-      category: "bathroom"
+      alt: "Property image 39"
     },
     {
       id: 40,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988173559-DSC09380.jpg",
-      alt: "Property image 40",
-      category: "exterior"
+      alt: "Property image 40"
     },
     {
       id: 41,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988173969-DSC09387.jpg",
-      alt: "Property image 41",
-      category: "interior"
+      alt: "Property image 41"
     },
     {
       id: 42,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988174397-DSC09404.jpg",
-      alt: "Property image 42",
-      category: "kitchen"
+      alt: "Property image 42"
     },
     {
       id: 43,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988174902-DSC09407.jpg",
-      alt: "Property image 43",
-      category: "bedroom"
+      alt: "Property image 43"
     },
     {
       id: 44,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988175328-DSC09416.jpg",
-      alt: "Property image 44",
-      category: "bathroom"
+      alt: "Property image 44"
     },
     {
       id: 45,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988175825-DSC09425.jpg",
-      alt: "Property image 45",
-      category: "exterior"
+      alt: "Property image 45"
     },
     {
       id: 46,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988176463-DSC09434.jpg",
-      alt: "Property image 46",
-      category: "interior"
+      alt: "Property image 46"
     },
     {
       id: 47,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988177276-DSC09437.jpg",
-      alt: "Property image 47",
-      category: "kitchen"
+      alt: "Property image 47"
     },
     {
       id: 48,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988178170-DSC09440.jpg",
-      alt: "Property image 48",
-      category: "bedroom"
+      alt: "Property image 48"
     },
     {
       id: 49,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988178857-DSC09443.jpg",
-      alt: "Property image 49",
-      category: "bathroom"
+      alt: "Property image 49"
     },
     {
       id: 50,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760988179821-DSC09446.jpg",
-      alt: "Property image 50",
-      category: "exterior"
+      alt: "Property image 50"
     }
   ];
 

@@ -28,32 +28,27 @@ export const galleryImages = [
     {
       id: 1,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1757004589506-2912-80 John St-01.jpg",
-      alt: "Open concept living room with floor-to-ceiling windows at 80 John St #2912",
-      category: "interior"
+      alt: "Open concept living room with floor-to-ceiling windows at 80 John St #2912"
     },
     {
       id: 2,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1757004602781-2912-80 John St-04.jpg",
-      alt: "Living and dining area with southeast light at 80 John St #2912",
-      category: "interior"
+      alt: "Living and dining area with southeast light at 80 John St #2912"
     },
     {
       id: 3,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1757004609515-2912-80 John St-14.jpg",
-      alt: "Gourmet kitchen with enlarged island and built-in power at 80 John St #2912",
-      category: "kitchen"
+      alt: "Gourmet kitchen with enlarged island and built-in power at 80 John St #2912"
     },
     {
       id: 4,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1757004627198-2912-80 John St-20.jpg",
-      alt: "Primary bedroom with skyline outlook at 80 John St #2912",
-      category: "bedroom"
+      alt: "Primary bedroom with skyline outlook at 80 John St #2912"
     },
     {
       id: 5,
       src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1757004643105-2912-80 John St-11.jpg",
-      alt: "Luxury bathroom with floor-to-ceiling tile and modern fixtures at 80 John St #2912",
-      category: "bathroom"
+      alt: "Luxury bathroom with floor-to-ceiling tile and modern fixtures at 80 John St #2912"
     }
   ];
 
